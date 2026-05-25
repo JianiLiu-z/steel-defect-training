@@ -1,0 +1,15 @@
+runs/
+datasets/
+logs/
+experiments/
+.autodl/
+
+*.pt
+*.jpg
+*.png
+*.zip
+
+__pycache__/
+*.pyc
+.autodl/
+.env
